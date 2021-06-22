@@ -1,0 +1,120 @@
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\bin\Debug\TestWPF.exe.config
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\bin\Debug\TestWPF.exe.manifest
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\bin\Debug\TestWPF.application
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\bin\Debug\TestWPF.exe
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\bin\Debug\TestWPF.pdb
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\WPFEmployee.csprojResolveAssemblyReference.cache
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\second.baml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\second.g.cs
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\App.g.cs
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\TestWPF_MarkupCompile.cache
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\TestWPF.g.resources
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\TestWPF.Properties.Resources.resources
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\WPFEmployee.csproj.GenerateResource.Cache
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\TestWPF.exe.manifest
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\TestWPF.application
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\TestWPF.exe
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2010\Projects\TestWPF\TestWPF\obj\x86\Debug\TestWPF.pdb
+C:\Users\ZeRoOnEz1\Desktop\TestWPF\TestWPF\bin\Debug\TestWPF.exe.config
+C:\Users\ZeRoOnEz1\Desktop\TestWPF\TestWPF\obj\x86\Debug\TestWPF.exe
+C:\Users\ZeRoOnEz1\Desktop\TestWPF\TestWPF\obj\x86\Debug\TestWPF.pdb
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\TestWPF.exe.config
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.exe
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.pdb
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\TestWPF.exe.manifest
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\TestWPF.application
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\TestWPF.exe
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\TestWPF.pdb
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csprojResolveAssemblyReference.cache
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\MainWindow.baml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\second.baml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\second.g.cs
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\App.g.cs
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF_MarkupCompile.cache
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.g.resources
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.Properties.Resources.resources
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csproj.GenerateResource.Cache
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.exe.manifest
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.application
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\EntityFramework.dll
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\EntityFramework.xml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ZeRoOnEz1\Documents\Visual Studio 2013\Projects\WPFemployee\WPFemployee\bin\Debug\System.Windows.Interactivity.xml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\TestWPF.exe.config
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.exe
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.pdb
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\TestWPF.exe.manifest
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\TestWPF.application
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\TestWPF.exe
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\TestWPF.pdb
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\EntityFramework.dll
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\System.Windows.Interactivity.dll
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\EntityFramework.xml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\System.Data.SQLite.xml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\bin\Debug\System.Windows.Interactivity.xml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csprojResolveAssemblyReference.cache
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\MainWindow.baml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\second.baml
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\MainWindow.g.cs
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\second.g.cs
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\App.g.cs
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF_MarkupCompile.cache
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.g.resources
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.Properties.Resources.resources
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csproj.GenerateResource.Cache
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.exe.manifest
+D:\Download\Dream Spark\desktop\Project\Projects 2013\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.application
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csprojAssemblyReference.cache
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\MainWindow.baml
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\second.baml
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\MainWindow.g.cs
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\second.g.cs
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\App.g.cs
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF_MarkupCompile.cache
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.g.resources
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.Properties.Resources.resources
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csproj.GenerateResource.cache
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csproj.CoreCompileInputs.cache
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.exe
+D:\Desktop\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.pdb
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\MainWindow.baml
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\second.baml
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\MainWindow.g.cs
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\second.g.cs
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\App.g.cs
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF_MarkupCompile.cache
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.g.resources
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.Properties.Resources.resources
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csproj.GenerateResource.cache
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\WPFemployee.csproj.CoreCompileInputs.cache
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.exe
+E:\desktop\Job\WPFemployee\WPFemployee\WPFemployee\obj\x86\Debug\TestWPF.pdb
